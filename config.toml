@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://chelseacrank.com"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Chelsea Crank"
 # Main Menu
 [[menu.main]]
 name = "Home"
