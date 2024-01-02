@@ -19,13 +19,3 @@ solution: Defining sections or bands on the homepage gives some structure and or
 {{< befaftsection befimage="images/portfolio/mod-contact-before.png" aftimage="images/portfolio/mod-contact-after.png" title="Before/After of Contact Page">}}Organizing the address and contact information with icons, and moving the hours info into a proper table an to the right in a two column layout so it is more dynamic and visually appealing. The contact form on the old site was broken so I fixed that.{{< /befaftsection >}}
 
 {{< befaftsection befimage="images/portfolio/mod-order-before.png" aftimage="images/portfolio/mod-order-after.png" title="Before/After of Order Form Page">}}The client did not want an order form to be handled online through the website, they wanted to add another format, so using large icons for the type of file was the best solution to make this simple page visually appealing and user friendly.{{< /befaftsection >}}
-
-
-
-
-
-
-
-  
-
-
